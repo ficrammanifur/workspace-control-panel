@@ -2,6 +2,19 @@
 
 A comprehensive, production-ready project management system built with Laravel. Designed for teams to efficiently manage projects, tasks, and collaborate seamlessly with real-time Telegram notifications.
 
+![PHP](https://img.shields.io/badge/PHP-8-777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-Latest-E34C26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Latest-1572B6?style=flat-square&logo=css3)
+
+**Backend:** Laravel 11 | PHP 8.2+
+**Frontend:** HTML5, CSS3, Vanilla JavaScript
+**Database:** MySQL 8 / PostgreSQL 14+
+**External APIs:** Telegram Bot API
+**Storage:** Local filesystem
+
 ## 🎯 Features
 
 ### Authentication & Authorization
@@ -46,21 +59,6 @@ A comprehensive, production-ready project management system built with Laravel. 
 - Task assignment notifications
 - Project status change alerts
 - Real-time notification delivery
-
-## 🛠 Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-8-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-Latest-E34C26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Latest-1572B6?style=flat-square&logo=css3)
-
-**Backend:** Laravel 11 | PHP 8.2+
-**Frontend:** HTML5, CSS3, Vanilla JavaScript
-**Database:** MySQL 8 / PostgreSQL 14+
-**External APIs:** Telegram Bot API
-**Storage:** Local filesystem
 
 ## 📋 Requirements
 
